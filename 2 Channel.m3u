@@ -38,7 +38,7 @@ http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZEE தமிழ்" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="TAMIL",ZEE தமிழ்
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/225.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="" group-title="TAMIL",ZEE திரை
+#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="TAMIL",ZEE திரை
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/181966.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,7 +62,7 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tamil",Kalaignar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=200
 S
-#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="" group-title="India",SUN MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="India",SUN MUSIC HD
 http://117.55.202.4:25461/live/client120/aarab.amar/295.ts?token=SkMOBUsLFA1HXVZaAFUADgdQAFFQUABXCwcGUgAFWQtTAgJSWVUHBlMaShpHQkVcUVw5XgZHA1QBBB1BRkRdS24IAkYCQQAVSRoSUVlTFQMBBlYEVlEKVw4FHUFDXlwbC0NUVQBaAhVJGgNAQFNFV1FdOVMHE1AFXRMLDUZbVBUTDgg7XAZbVgtcRAIWBxUVElgVR0BfVxNUXR1BUV5MS1AVA0YCQQIGXApEFBZVWExeRRROQF8bL3YTHUFWT0xcXxIPC1ZBDBURS0QUFl9EZkJUFUMQAFgLXUMTWREHGhUTDAccZwBZWQtdBUxdWVlKEgtEBlJXG0oaXF4NWkNXS24RDwAaWRQFVg5VDRZL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,7 +90,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=425
 #EXTINF:-1 tvg-id=ts199 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tamil",Jaya Max
 http://rftv.wtf/tp/rjiptv.mpd?contentID=199
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun life " tvg-logo="" group-title="TAMIL",Sun life
+#EXTINF:-1 tvg-id="" tvg-name="Sun life " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20180910010835" group-title="TAMIL",Sun life
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143026.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -204,7 +204,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=439
 #EXTINF:-1 tvg-id="" tvg-name="3 TAMIL TV" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="India",3 TAMIL TV
 http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/1961
 
-#EXTINF:-1 tvg-id="a2f7179b6602fc0c7951b0426140cd5a",HISTORY HD
+#EXTINF:-1 tvg-id="a2f7179b6602fc0c7951b0426140cd5a"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Knowledge",HISTORY HD
 http://103.131.214.129:9985/stream/channelid/454555554?ticket=3883D8FD67C789AB53FFA5685EFA8837C6A8EA7B&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,9 +216,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=172
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=616&amp;key
 #EXTINF:-1 tvg-id=ts616 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Knowledge",History TV18 HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=616
-
-#EXTINF:-1 tvg-id="a2f7179b6602fc0c7951b0426140cd5a",HISTORY HD
-http://103.131.214.129:9985/stream/channelid/454555554?ticket=3883D8FD67C789AB53FFA5685EFA8837C6A8EA7B&profile=pass
 
 #EXTINF:-1 tvg-id="f60355e319cc4b1e0e9855dd48378c2e",Discovery Kids
 http://103.131.214.129:9985/stream/channelid/1666515958?ticket=BB2F355F4F6B221F180FDAA17421C77B12EA03C8&profile=pass
