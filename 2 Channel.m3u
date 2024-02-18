@@ -1,8 +1,5 @@
 
-#EXTINF:-1 tvg-id="suntv.in" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="TAMIL",SUN TV HD
-http://31062946988771779.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/771779.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="சன் டிவி" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="TAMIL",சன் டிவி
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="TAMIL",சன் டிவி
 https://edge1.laotv.la/live/SunTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="KTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="Movies",K TV HD
