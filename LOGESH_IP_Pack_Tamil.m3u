@@ -1,0 +1,399 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="TAMIL",சன் டிவி
+https://edge1.laotv.la/live/SunTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ktv.de" tvg-name="KTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="Movies",K TV HD
+http://31062946988735656.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/735656.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&amp;key
+#EXTINF:-1 tvg-id=ts380 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=380
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=496&amp;key
+#EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=496
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL",Star Vijay
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143000.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="TAMIL",Vijay Super
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/1614.ts
+
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="TAMIL",ADITHYA TV
+http://31062946988692420.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/692420.ts
+
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="TAMIL",ADITHYA TV
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143008.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=611&amp;key
+#EXTINF:-1 tvg-id=ts611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="Tamil",Sirippoli
+http://rftv.wtf/tp/rjiptv.mpd?contentID=611
+
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="ZEE TAMIL SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="India",ZEE TAMIL SD
+http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE தமிழ்" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="TAMIL",ZEE தமிழ்
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/225.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="TAMIL",ZEE திரை
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/181966.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=674&amp;key
+#EXTINF:-1 tvg-id=ts674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",Colors Tamil HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=674
+
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="COLORS TAMIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="India",COLORS TAMIL HD
+http://31062946988772475.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/772475.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=418&amp;key
+#EXTINF:-1 tvg-id=ts418 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil",Colors Tamil
+http://rftv.wtf/tp/rjiptv.mpd?contentID=418
+
+#EXTINF:-1 tvg-id="" tvg-name="Kalaignar Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="India",Kalaignar Tv
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=200&amp;key
+#EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tamil",Kalaignar TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=200
+S
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="India",SUN MUSIC HD
+http://117.55.202.4:25461/live/client120/aarab.amar/295.ts?token=SkMOBUsLFA1HXVZaAFUADgdQAFFQUABXCwcGUgAFWQtTAgJSWVUHBlMaShpHQkVcUVw5XgZHA1QBBB1BRkRdS24IAkYCQQAVSRoSUVlTFQMBBlYEVlEKVw4FHUFDXlwbC0NUVQBaAhVJGgNAQFNFV1FdOVMHE1AFXRMLDUZbVBUTDgg7XAZbVgtcRAIWBxUVElgVR0BfVxNUXR1BUV5MS1AVA0YCQQIGXApEFBZVWExeRRROQF8bL3YTHUFWT0xcXxIPC1ZBDBURS0QUFl9EZkJUFUMQAFgLXUMTWREHGhUTDAccZwBZWQtdBUxdWVlKEgtEBlJXG0oaXF4NWkNXS24RDwAaWRQFVg5VDRZL
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=400&amp;key
+#EXTINF:-1 tvg-id=ts400 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Tamil",Mega Music
+http://rftv.wtf/tp/rjiptv.mpd?contentID=400
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=411&amp;key
+#EXTINF:-1 tvg-id=ts411 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="Tamil",Murasu TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=411
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=647&amp;key
+#EXTINF:-1 tvg-id=ts647 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="Tamil",Isaiaruvi
+http://rftv.wtf/tp/rjiptv.mpd?contentID=647
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=425&amp;key
+#EXTINF:-1 tvg-id=ts425 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Tamil",Raj Musix
+http://rftv.wtf/tp/rjiptv.mpd?contentID=425
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=199&amp;key
+#EXTINF:-1 tvg-id=ts199 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tamil",Jaya Max
+http://rftv.wtf/tp/rjiptv.mpd?contentID=199
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun life " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20180910010835" group-title="TAMIL",Sun life
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143026.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=434&amp;key
+#EXTINF:-1 tvg-id=ts434 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png" group-title="Tamil",Jothi TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=434
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=421&amp;key
+#EXTINF:-1 tvg-id=ts421 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png" group-title="Tamil",Peppers TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=421
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=334&amp;key
+#EXTINF:-1 tvg-id=ts334 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png" group-title="Tamil",DD Podhigai
+http://rftv.wtf/tp/rjiptv.mpd?contentID=334
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=201&amp;key
+#EXTINF:-1 tvg-id=ts201 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="Tamil",J Movies
+http://rftv.wtf/tp/rjiptv.mpd?contentID=201
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=659&amp;key
+#EXTINF:-1 tvg-id=ts659 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Tamil",Vendhar TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=659
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=392&amp;key
+#EXTINF:-1 tvg-id=ts392 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title="Tamil",Makkal TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=392
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=272&amp;key
+#EXTINF:-1 tvg-id=ts272 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="Tamil",Polimer TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=272
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=499&amp;key
+#EXTINF:-1 tvg-id=ts499 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png" group-title="Tamil",Vasanth TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=499
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=723&amp;key
+#EXTINF:-1 tvg-id=ts723 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-41267-jwjjvrt4-v5/imageContent-41267-jwjjvrt4-m7.png" group-title="Tamil",Tamil Naaptol
+http://rftv.wtf/tp/rjiptv.mpd?contentID=723
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=37&amp;key
+#EXTINF:-1 tvg-id=ts37 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="Tamil",Mega TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=37
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=426&amp;key
+#EXTINF:-1 tvg-id=ts426 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png" group-title="Tamil",Raj Digital Plus
+http://rftv.wtf/tp/rjiptv.mpd?contentID=426
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=99&amp;key
+#EXTINF:-1 tvg-id=ts99 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png" group-title="Tamil",D Tamil
+http://rftv.wtf/tp/rjiptv.mpd?contentID=99
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=439&amp;key
+#EXTINF:-1 tvg-id=ts439 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png" group-title="Tamil",Raj TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=439
+
+#EXTM3U NEWS Channels
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a" group-title="NEWS",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=968&amp;key
+#EXTINF:-1 tvg-id=ts968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="NEWS",News Tamil 24x7
+http://rftv.wtf/tp/rjiptv.mpd?contentID=968
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=220&amp;key
+#EXTINF:-1 tvg-id=ts220 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" group-title="NEWS",Puthiya Thalaimurai
+http://rftv.wtf/tp/rjiptv.mpd?contentID=220
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPUTHIYA-THALAIMURAI.png?alt=media&token=14e7bf00-e424-45b8-ae75-9cbeed682796" group-title="NEWS",Asianet News (US)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=58&amp;key
+#EXTINF:-1 tvg-id=ts58 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png" group-title="NEWS",News18 Tamil Nadu
+http://rftv.wtf/tp/rjiptv.mpd?contentID=58
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5" group-title="NEWS",News18 Tamilnadu
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-7-TAMIL.png?alt=media&token=08a165fc-3415-42fe-9092-36e71f3d4a49"group-title="NEWS",News7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=391&amp;key
+#EXTINF:-1 tvg-id=ts391 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png "group-title="NEWS",MalaiMurasu Seithigal
+http://rftv.wtf/tp/rjiptv.mpd?contentID=391
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=455&amp;key
+#EXTINF:-1 tvg-id=ts455 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png" group-title="NEWS",Sathiyam TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=455
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=44&amp;key
+#EXTINF:-1 tvg-id=ts44 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="NEWS",Seithigal TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=44
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=198&amp;key
+#EXTINF:-1 tvg-id=ts198 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png" group-title="NEWS",Jaya Plus
+http://rftv.wtf/tp/rjiptv.mpd?contentID=198
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=524&amp;key
+#EXTINF:-1 tvg-id=ts524 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png" group-title="NEWS",Thanthi TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=524
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FTHANTHI-TV.png?alt=media&token=f04a19a8-aaa0-498e-b1b6-88cd63100f2b" group-title="NEWS",Thanthi TV
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun News" tvg-logo="" group-title="NEWS",Sun news
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143126.ts
+
+#EXTM3U Youtube LIVE NEWS Channels
+
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", Sun News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258805/ei/laHRZfGbC9KDsfIP2eeFmAE/ip/13.88.98.125/id/qMIXfgQH1x4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3IQ-nUV3WAOrbGVQhmA6QFAoZ1Q2ilNrZmiSwHoBTM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMswBJQsYe1Gg3i3ujSqRAasYJceZtHz_YHr2TQaDg5VAiAWd-jvO6uKHh-EYnrZU0dIF07XnrIxgwLUTHQSyWEW4Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258805/ei/laHRZZ-7OImYsfIPuPqpqAU/ip/13.88.98.125/id/zyvD7GxsXTw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3pplXjLrtQR5jAhzcY0SJ18pq03RI1awvIms4nm5ek/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKmQMguPdJqWlC2lMlHKVrX66ZBNuk1MeMyFudhgNY6RAiEAz31P8LrBqxiC4A-8mlwYmh4O7OBOjBPHRNutX0PH1x0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258806/ei/lqHRZdm6JtO9sfIPgcqk4Ak/ip/13.88.98.125/id/cIJM1k2u5fI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwU1qxipvu1oYWVA3itfT5G9RFaUpDcAAfVfRqZFfr8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKHpYEdWQtzm2MO-xjjU_xsErIQMi6MGWyHWVAXnsn2iAiEAjuEYNnYAisghslZ2ZQGwMI9PftXT4smyA2mfhSexv2g%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", PuthiyaThalaimurai
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258807/ei/l6HRZcLMDu24sfIPyN6J8Ag/ip/13.88.98.125/id/uoizRTauQYA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fynaIJfyHXcwIpCE5BKUosuYkCjVFkxQnS3jfjYGYUc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJvTZ5La-uPDmvhsvyP2Wcjf-s3GlRev05-YHGkBk5Q4AiEAjBige15mmixri77UHELvwtfav7PrcfOlM4MDF8c6djY%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258807/ei/l6HRZcG1Nb7EsfIP_OmH8AI/ip/13.88.98.125/id/TfZEpWFr490.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4TsmNbepUYPGdfoyKODb2Vtejxk-hKc6gsfaZP8o6s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKvtEycQc7fV2_ktx1zPuRy9XuZGvmPgrO-IBlVWX1xMAiEAzSJwKOErg5e8_k94MGSdCYLX3tiE7NiHP4ZkMAHggpc%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258808/ei/mKHRZZavHqyTsfIPu5yesAM/ip/13.88.98.125/id/NLhzuFJNSYo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f92Vd5ksZxpf8ac8G5fgwwLURahOcE97bKt1ThY6cAQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI3DE1GUccTnGb0Y37zAq1Y6xIzL_q4ukBVZZao3bC8TAiEA-rEj_F0fstRooK20pkFtNTfHiuq0l8fRb4zt1AGP7NA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258809/ei/maHRZYnNA6vYsfIP8Nqj4AI/ip/13.88.98.125/id/ueaQVvnsK70.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyCN6t0tvhRin3DJNyE-jIfu6Xjg6HKh54W7fimkkHk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZEsxwPGRhK_cJJh5xoWUrVMOB82eFHIVgcIhbOy7_xYCIQCG5NyQpio0XbqfTNLfkHfkR2rfY2R83PALWPmNrgMaqA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/dvFdH7i.jpg" tvg-id="", Malaimurasu Tv
+https://mxlite.pages.dev/assets/info.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="", News18 TamilNadu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258810/ei/maHRZYK3OqbrsfIPpeq42As/ip/13.88.98.125/id/j09Clqb5Ey4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f__NHwDQY-8t7bbbh8wVGYWDkHh9qe9J6QUkFxDgLmk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLutbi0eXz3X4IJUm9RXNSW8AYwzhqg8w_VdJxMEtpw4CIFiO7oV2vxEhMs-RV2ZFTICB63rDm-JvtuPu9Bqc8YOX/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258810/ei/mqHRZdbzJbiIsfIPt7a3qA8/ip/13.88.98.125/id/gZIby4dolVI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6KdN-U3Sx9pAay1UAhZn2trjZhMi9F7qk1ySaacfjQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY2vVsLnaMYAUQi_yifghobNG5oXjK1LSd2pyamZ200ICIQCDHpFWIsALCtFPm2p_p6oT29-xD1KdIjalU898AGOdmQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258811/ei/m6HRZb_7EezcsfIPrJClmAo/ip/13.88.98.125/id/hH6Y2wq_DTQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyZQChj6dikT2VZswaUktynwMs7i6tQAkCMpTkJfzlk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJGnq_Nm58JDHsya7-tLbp5-39rgApEe9N-X3XU3fxxoCIEmnjmJtze_ytUWnqmDWbwpu6peL9UvtxS-Pifv0A8wv/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258812/ei/m6HRZYTdPOLYsfIP-peggAM/ip/13.88.98.125/id/XOCUeiExfPE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy8BPJ8lbc3QI8npr8kt7kcA60LJr3k6jivLHWSrn2U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLSgsdg7jaWs1iyQU3IZfoB01SqPxdE2URb_L1BlKFhkCIQDc8Y7Q91OhsGR6jQr3ExiiyQzhXYySIXz2iYaXJp3vHg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="", News18 TamilNadu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258812/ei/nKHRZf3DLJawsfIPiOudsAI/ip/13.88.98.125/id/j09Clqb5Ey4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f00AQtvM4hqpybb42ce_1ZRsuPx-TDSipMd4FcfHN8E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKrdyOOLD7ALeIAKdmwXijqzNn6EIu2m1H_Yxnq7tN4jAiEA9mALjS4W-7wGNENOTIHHx7-wORmvPpdGYVC2sKmPalE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="", Dinamalar
+https://mxlite.pages.dev/assets/info.m3u8
+
+#EXTINF:-1 group-title="Youtube-News" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708258814/ei/naHRZarOPPrXsfIP0LCJwAM/ip/13.88.98.125/id/M7_4aqc-6ec.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3dv8QXgbHqocrLQv_jFRldou54L4T5ua6DJoLTlzqY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUtLOh-v2QHUkTFEBLwAfTnR4LrlBUcg4HUVQXIOJq4ECIBk_UHFp-NODwTTHlH7A-ecWjH4GV0youBuKg5EEY4AW/file/index.m3u8
+
+#EXTM3U Kids Package
+
+#EXTINF:-1 tvg-id="f60355e319cc4b1e0e9855dd48378c2e" group-title="Kids",Discovery Kids
+http://103.131.214.129:9985/stream/channelid/1666515958?ticket=BB2F355F4F6B221F180FDAA17421C77B12EA03C8&profile=pass
+
+#EXTINF:-1 tvg-id="0080d88685ade6f555cc5777cf5c2c1d" group-title="Kids",Nick HD+
+http://103.131.214.129:9985/stream/channelid/114851840?ticket=0A194C45A38174C19A7F07764D19648B459ABF94&profile=pass
+
+#EXTINF:-1 tvg-id="7799f0d47b993c19f7d90d87644fb720" group-title="Kids",Nick
+http://103.131.214.129:9985/stream/channelid/1425054071?ticket=33C0D61B8A50558838CEE993C6FE7D7945ED093A&profile=pass
+
+#EXTINF:-1 tvg-id="c3ae1950d67c7e99284bad386898558e" group-title="Kids",Cartoon Netowk
+http://103.131.214.129:9985/stream/channelid/1343860419?ticket=D5314433AA058CF3567B7337244127586D06C50A&profile=pass
+
+#EXTINF:-1 tvg-id="347f786a7a83cf12bbac1248ac36ea16" group-title="Kids",Disney
+http://103.131.214.129:9985/stream/channelid/1786281780?ticket=99424C19EC394552109C3DF7C2B0EA0DB2D31189&profile=pass
+
+#EXTINF:-1 tvg-id="1fb8229fb744f986e027a1ec2e6c39c6" group-title="Kids",Hungama tv
+http://103.131.214.129:9985/stream/channelid/522369055?ticket=3221817B3C052B308D197970845868CAFD6B0B7E&profile=pass
+
+#EXTINF:-1 tvg-id="Hungama tv" tvg-name="Hungama tv" tvg-logo=""group-title="Kids",Hungama tv
+http://starshare.live:8080/live/53rumaiz87/7567new977/18456.ts
+
+#EXTINF:-1 tvg-id="1e4ae6b1b6c0ceccda7ef70926ee04e5" group-title="Kids",Disney Jr.
+http://103.131.214.129:9985/stream/channelid/837175838?ticket=5D051D78C02A9683267EF2CCBE5522F102A16791&profile=pass
+
+#EXTINF:-1 tvg-id="570bcc052cc3de59e4350b766d27b11b" group-title="Kids",MINI MAX
+http://103.131.214.129:9985/stream/channelid/97258327?ticket=4445B9131DED6F3099FF60E8419E03A5D842E299&profile=pass
+
+#EXTINF:-1 tvg-id="c4afe3299ca2f96ea6101df345a6e4db" group-title="Kids",SONIC KIDS
+http://103.131.214.129:9985/stream/channelid/702787524?ticket=2F9853576331E715D9C29784DD731CF6DFE0FE2A&profile=pass
+
+#EXTINF:-1 tvg-id="ce1b79c03e701a331aba726d4fd10fc4" group-title="Kids",Pogo
+http://103.131.214.129:9985/stream/channelid/1081678798?ticket=1DCCAF06608065A8EA98EF0766A76D0B38070BB4&profile=pass
+
+#EXTINF:-1 tvg-id="e712c0757bb292be6049246360a6e119" group-title="Kids",Nick Jr.
+http://103.131.214.129:9985/stream/channelid/1975522023?ticket=4DD590115572E57D0F89D6847FDE9B234F13C49E&profile=pass
+
+Sports Channels
+
+#EXTINF:-1 tvg-id="5f18ca4a1c821793cc8f3eb0222f911e" group-title="Sports",GEM FOOD
+http://103.131.214.129:9985/stream/channelid/1254758495?ticket=1FF46FA5CAE6505888F2956B6E61685CB8EE6FA5&profile=pass
+#EXTINF:-1 tvg-id="7471a18fe4b67ea355d03b45b1f84f2c" group-title="Sports",PTV SPORTS HD
+http://103.131.214.129:9985/stream/channelid/262238580?ticket=5E8433F7EC05ABF06E219FEC1D18909449BE785D&profile=pass
+#EXTINF:-1 tvg-id="5c40cd3d24c91c8521bb66aad9a2beae" group-title="Sports",TEN SPORTS PAK
+http://103.131.214.129:9985/stream/channelid/1036861532?ticket=EE0E60C2E95020E4653904E9323E163A01823D1D&profile=pass
+#EXTINF:-1 tvg-id="4fb0bdb381ea0043fff90d056e59639b" group-title="Sports",A SPORTS HD
+http://103.131.214.129:9985/stream/channelid/868069455?ticket=644BA6FE6E7AE725084BD600E8A31E2631BC78DA&profile=pass
+#EXTINF:-1 tvg-id="5c3f322d4d193934884f31c9081455de" group-title="Sports",Star Sports Hindi
+http://103.131.214.129:9985/stream/channelid/758267740?ticket=570485220F733237B68649C1B2350CAE52ABFEC1&profile=pass
+#EXTINF:-1 tvg-id="9ca9680a8c85117ca12ae38a65767c79" group-title="Sports",StarSports 1HD
+http://103.131.214.129:9985/stream/channelid/174631324?ticket=80960845A2016FC1216541C2DF9DE7022844EAA7&profile=pass
+#EXTINF:-1 tvg-id="f699e33646eae951b4fb18db8520e6a4" group-title="Sports",Star Sports 2HD
+http://103.131.214.129:9985/stream/channelid/920885750?ticket=5B9360BB39A2EAB2DEFBBA811D749B0F40C0DFFA&profile=pass
+#EXTINF:-1 tvg-id="6306616f391c0ac4f4f23eab3177b529" group-title="Sports",Star Sport SL1HD
+http://103.131.214.129:9985/stream/channelid/1868629603?ticket=3489259DD8D9030717ED133C28AB514B76F15E94&profile=pass
+#EXTINF:-1 tvg-id="9b4ed7fcefc19b1d745fd72bf5a89eb8" group-title="Sports",Star Sport SL2HD
+http://103.131.214.129:9985/stream/channelid/2094485147?ticket=F10A43DF2B3273652C41FE88420BE1D844B74E62&profile=pass
+#EXTINF:-1 tvg-id="2084e5021901c0fc08bc22c5e239279d" group-title="Sports",SPORTS 18 1HD
+http://103.131.214.129:9985/stream/channelid/48596000?ticket=82817DC6D2CA39E73EABC2D7C87E8BB101FA5FF3&profile=pass
+#EXTINF:-1 tvg-id="5fee850da18be5aefc4879af727a9ae6" group-title="Sports",Sony Ten 1 HD
+http://103.131.214.129:9985/stream/channelid/226881119?ticket=3233DD81B626A2054D84B15364B502C69693B1FB&profile=pass
+#EXTINF:-1 tvg-id="be41371c84a5e2e5dae8e098b39d36b4" group-title="Sports",Sony Ten 2HD 
+http://103.131.214.129:9985/stream/channelid/473383358?ticket=CA878EFBD1670A8DA59C422148B657B30345BE03&profile=pass
+#EXTINF:-1 tvg-id="d993b94955a333e071a958ac07ebe5f6" group-title="Sports",Sony Ten 3 HD
+http://103.131.214.129:9985/stream/channelid/1236898777?ticket=CEFD40483A36CF2E023EE5B2BC2FF84D034BB4A7&profile=pass
+#EXTINF:-1 tvg-id="9185fc2e69f23463a433245621b203bb" group-title="Sports",Sony Ten 5 HD
+http://103.131.214.129:9985/stream/channelid/788301201?ticket=9F4B0D8BB8A8EC5D49D022FFC7EFA461CBD1F779&profile=pass
+#EXTINF:-1 tvg-id="6469b9a38cf498682f8e34098ce60edf" group-title="Sports",KSA SPORTS 1HD
+http://103.131.214.129:9985/stream/channelid/599353700?ticket=8BBE970C19B9DD40C1F776E0D7AFF08B59C9D920&profile=pass
+#EXTINF:-1 tvg-id="bf28deb36e38fe5899717a4ea246e2bd" group-title="Sports",KSA SPORTS 2HD
+http://103.131.214.129:9985/stream/channelid/870197439?ticket=C62171C7EF306A72E05512D19F348883B1506032&profile=pass
+#EXTINF:-1 tvg-id="0eb45b710e00461d7ee265ae06edaedb" group-title="Sports",KSA SPORTS 3HD
+http://103.131.214.129:9985/stream/channelid/1901835278?ticket=60646718CEE89AB4E1ED5447B9361C868B2DA7AD&profile=pass
+#EXTINF:-1 tvg-id="7bce315818e5d95ae1fd06e07f4ba477" group-title="Sports",EUROSPORT HD
+http://103.131.214.129:9985/stream/channelid/1479659131?ticket=5561D1A761C7A958232B1F898847825CF2FB29BB&profile=pass
+
+Science Channels
+
+#EXTINF:-1 tvg-id="a2f7179b6602fc0c7951b0426140cd5a"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Science",HISTORY HD
+http://103.131.214.129:9985/stream/channelid/454555554?ticket=3883D8FD67C789AB53FFA5685EFA8837C6A8EA7B&profile=pass
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=172&amp;key
+#EXTINF:-1 tvg-id=ts172 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Science",History TV18
+http://rftv.wtf/tp/rjiptv.mpd?contentID=172
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=616&amp;key
+#EXTINF:-1 tvg-id=ts616 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Science",History TV18 HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=616
+
+#EXTINF:-1 tvg-id="5538de1ec27b82cdaeb5f317216ba0a0" group-title="Science",Discovery HD
+http://103.131.214.129:9985/stream/channelid/517879893?ticket=E1CE9333BB9639D285E70D2165097A90000636D6&profile=pass
+
+#EXTINF:-1 tvg-id="08fe90c98ce2d6896052a103786fc4c7" group-title="Science",Animal Planet HD
+http://103.131.214.129:9985/stream/channelid/1234238984?ticket=649D6AFCC1A5843AFB67480469C7694A878AAC8F&profile=pass
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=287&amp;key
+#EXTINF:-1 tvg-id=ts287 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Science",Animal Planet HD World
+http://rftv.wtf/tp/rjiptv.mpd?contentID=287
+
+#EXTINF:-1 tvg-id="31bd7663430bd094cd5b4c39b5178392" group-title="Science",NatGeo Wild HD
+http://103.131.214.129:9985/stream/channelid/1668726065?ticket=F832BA610ECE24018002E3D737B571DC9029FC89&profile=pass
+
+#EXTINF:-1 tvg-id="29fc8b508b7d4270b67df00379142ab5" group-title="Science",Nat Geo HD
+http://103.131.214.129:9985/stream/channelid/1351351337?ticket=C0E126916F5C2A50C1813976131A134898F6D391&profile=pass
+#EXTINF:-1 tvg-id="ab47dfaa9142d041d13946528e6472b7" group-title="Science",ID HD
+http://103.131.214.129:9985/stream/channelid/719275947?ticket=E991C74A6E5ADD2F3B040C24B748BAD6E3BADF67&profile=pass
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=113&amp;key
+#EXTINF:-1 tvg-id=ts113 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Knowledge" group-title="Science",Discovery Science
+http://rftv.wtf/tp/rjiptv.mpd?contentID=113
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=158&amp;key
+#EXTINF:-1 tvg-id=ts158 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="Science",SONY BBC Earth
+http://rftv.wtf/tp/rjiptv.mpd?contentID=158
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=460&amp;key
+#EXTINF:-1 tvg-id=ts460 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Science",SONY BBC Earth HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=460
+
+#EXTINF:-1 tvg-id="9aca4c8f7d3df5d2a225de883adfbfcd" group-title="Science",BBC Earth HD
+http://103.131.214.129:9985/stream/channelid/256690842?ticket=3FC572D6F383D35047602B2AF31406040D4D1CF8&profile=pass
+#EXTINF:-1 tvg-id="4b1512cea68a3b3850a1ce8a6dda3464" group-title="Science",TLC HD
+http://103.131.214.129:9985/stream/channelid/1309807947?ticket=A795C133503348F88FEAADC8D25D4AEA094071E7&profile=pass
