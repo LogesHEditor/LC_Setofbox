@@ -1,8 +1,8 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="TAMIL",சன் டிவி
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",சன் டிவி
 https://edge1.laotv.la/live/SunTV/index.m3u8
 
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="KTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="Movies",K TV HD
+#EXTINF:-1 tvg-id="ktv.de" tvg-name="KTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="Tamil",K TV HD
 http://31062946988735656.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/735656.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,16 +15,16 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=380
 #EXTINF:-1 tvg-id=ts496 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=496
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL",Star Vijay
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143000.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="TAMIL",Vijay Super
+#EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="Tamil",Vijay Super
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/1614.ts
 
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="TAMIL",ADITHYA TV
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",ADITHYA TV
 http://31062946988692420.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/692420.ts
 
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="TAMIL",ADITHYA TV
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",ADITHYA TV
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143008.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,13 +32,13 @@ http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143008.ts
 #EXTINF:-1 tvg-id=ts611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="Tamil",Sirippoli
 http://rftv.wtf/tp/rjiptv.mpd?contentID=611
 
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="ZEE TAMIL SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="India",ZEE TAMIL SD
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="ZEE TAMIL SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",ZEE TAMIL SD
 http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE தமிழ்" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="TAMIL",ZEE தமிழ்
+#EXTINF:-1 tvg-id="" tvg-name="ZEE தமிழ்" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",ZEE தமிழ்
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/225.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="TAMIL",ZEE திரை
+#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Tamil",ZEE திரை
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/181966.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +46,7 @@ http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/181966.ts
 #EXTINF:-1 tvg-id=ts674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",Colors Tamil HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=674
 
-#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="COLORS TAMIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="India",COLORS TAMIL HD
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="COLORS TAMIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Tamil",COLORS TAMIL HD
 http://31062946988772475.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/772475.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,7 +54,7 @@ http://31062946988772475.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/772475.ts
 #EXTINF:-1 tvg-id=ts418 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil",Colors Tamil
 http://rftv.wtf/tp/rjiptv.mpd?contentID=418
 
-#EXTINF:-1 tvg-id="" tvg-name="Kalaignar Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="India",Kalaignar Tv
+#EXTINF:-1 tvg-id="" tvg-name="Kalaignar Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Tamil",Kalaignar Tv
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,7 +62,7 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tamil",Kalaignar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=200
 S
-#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="India",SUN MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Tamil",SUN MUSIC HD
 http://117.55.202.4:25461/live/client120/aarab.amar/295.ts?token=SkMOBUsLFA1HXVZaAFUADgdQAFFQUABXCwcGUgAFWQtTAgJSWVUHBlMaShpHQkVcUVw5XgZHA1QBBB1BRkRdS24IAkYCQQAVSRoSUVlTFQMBBlYEVlEKVw4FHUFDXlwbC0NUVQBaAhVJGgNAQFNFV1FdOVMHE1AFXRMLDUZbVBUTDgg7XAZbVgtcRAIWBxUVElgVR0BfVxNUXR1BUV5MS1AVA0YCQQIGXApEFBZVWExeRRROQF8bL3YTHUFWT0xcXxIPC1ZBDBURS0QUFl9EZkJUFUMQAFgLXUMTWREHGhUTDAccZwBZWQtdBUxdWVlKEgtEBlJXG0oaXF4NWkNXS24RDwAaWRQFVg5VDRZL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,7 +90,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=425
 #EXTINF:-1 tvg-id=ts199 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tamil",Jaya Max
 http://rftv.wtf/tp/rjiptv.mpd?contentID=199
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun life " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20180910010835" group-title="TAMIL",Sun life
+#EXTINF:-1 tvg-id="" tvg-name="Sun life " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20180910010835" group-title="Tamil",Sun life
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143026.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
