@@ -11,37 +11,34 @@ http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143000.ts
 #EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="Tamil",Vijay Super
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/1614.ts
 
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",ADITHYA TV
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv CH 1" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",Adithya Tv CH 1
 http://31062946988692420.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/692420.ts
 
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="ADITHYA TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",ADITHYA TV
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv CH 2" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",Adithya Tv CH 2
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143008.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=611&amp;key
-#EXTINF:-1 tvg-id=ts611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="Tamil",Sirippoli
-http://rftv.wtf/tp/rjiptv.mpd?contentID=611
+Sirippoli
 
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="ZEE TAMIL SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",ZEE TAMIL SD
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Zee Tamil CH 1" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",Zee Tamil CH 1
 http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE தமிழ்" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",ZEE தமிழ்
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil CH 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",Zee Tamil CH 2
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/225.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE திரை" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Tamil",ZEE திரை
+#EXTINF:-1 tvg-id="" tvg-name="Zee Thirai" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Tamil",Zee Thirai
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/181966.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=674&amp;key
-#EXTINF:-1 tvg-id=ts674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",Colors Tamil HD
+#EXTINF:-1 tvg-id=ts674 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",Colors Tamil CH 1
 http://rftv.wtf/tp/rjiptv.mpd?contentID=674
 
-#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="COLORS TAMIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Tamil",COLORS TAMIL HD
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Tamil",Colors Tamil CH 2
 http://31062946988772475.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/772475.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=418&amp;key
-#EXTINF:-1 tvg-id=ts418 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil",Colors Tamil
+#EXTINF:-1 tvg-id=ts418 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="Tamil",Colors Tamil CH 3
 http://rftv.wtf/tp/rjiptv.mpd?contentID=418
 
 #EXTINF:-1 tvg-id="" tvg-name="Kalaignar Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Tamil",Kalaignar Tv
