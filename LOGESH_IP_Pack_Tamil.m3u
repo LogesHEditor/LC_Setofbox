@@ -31,9 +31,6 @@ http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/1614.ts
 ADITHA TV
 
 #EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",Adithya Tv
-http://31062946988692420.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/692420.ts
-
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Tamil",Adithya Tv
 http://195.26.87.217/live.ts?channelId=43404&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 ----------------------------------------------------------------TATA PLAY Channels-------------------------------------------
@@ -266,6 +263,9 @@ http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143000.ts
 
 #EXTINF:-1 tvg-id="AdithyaTv" tvg-name="B - Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="BACKUP Tamil",B - Adithya Tv
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/143008.ts
+
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="B - Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="BACKUP Tamil",Adithya Tv
+http://31062946988692420.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/692420.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="B - Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="BACKUP Tamil",B - Zee Tamil
 http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/225.ts
@@ -930,3 +930,19 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=460
 http://103.131.214.129:9985/stream/channelid/256690842?ticket=3FC572D6F383D35047602B2AF31406040D4D1CF8&profile=pass
 #EXTINF:-1 tvg-id="4b1512cea68a3b3850a1ce8a6dda3464" group-title="Science",TLC HD
 http://103.131.214.129:9985/stream/channelid/1309807947?ticket=A795C133503348F88FEAADC8D25D4AEA094071E7&profile=pass
+
+=====================================================Test=========================
+#EXTINF:-1 tvg-id="ts521" group-title="Testing" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
+http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/71036
+
+#EXTINF:-1 tvg-id="ts496" group-title="Testing" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/71034
+
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Testing",Zee Tamil
+http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/71032
+
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="B - Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Testing",Adithya Tv
+http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/71031
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Testing",Sun Music
+http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/71029
