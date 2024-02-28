@@ -332,7 +332,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manife
 
 ----------------------------------------------------------------Local Channels-------------------------------------------
 #EXTM3U Local Channels
-#EXTINF:-1 tvg-logo="" group-title="Local Channels (Tamilnadu)",RV TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Local Channels (Tamilnadu)",RV TV
 rtmp://skystream.in/live/rv8885
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Local Channels (Tamilnadu)", Rasi TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
