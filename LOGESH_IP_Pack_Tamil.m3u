@@ -16,11 +16,6 @@ STAR VIJAY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://extratvteam-tata-playlist.vercel.app/api/key.php?id=496 #EXTINF:-1 tvg-id="496" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay HD https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd?begin=20240221T060000&end=20240229T060000 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3rhfm3JraEByUctj+/7erw","kid":"MQB0P15FUOqMXmgT0JBdsQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ts496" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Vijay HD
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
-
 ----------------------------------------------------------------MY Channels-------------------------------------------
 
 VIJAY SUPER
@@ -51,8 +46,9 @@ http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
 
 Zee Thirai
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://extratvteam-tata-playlist.vercel.app/api/key.php?id=797 #EXTINF:-1 tvg-id="797" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="Extra-Tv-Team Regional Tamil",Zee Thirai 
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Zee Thirai" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="Tamil",Zee Thirai
 https://allinonereborn.tech/Zee-Thirai
+
 ----------------------------------------------------------------TATA PLAY Channels-------------------------------------------
 COLORS TAMIL
 
