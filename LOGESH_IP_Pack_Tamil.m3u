@@ -51,10 +51,20 @@ http://sansat.net:88/live/02048081503032/02048081503032/100119.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="Comedy",IBC Comedy
 http://sansat.net:88/live/02048081503032/02048081503032/100118.m3u8
 
+#EXTM3U - TVI HD
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="Tamil",TVI HD
+http://sansat.net:88/live/02048081503032/02048081503032/100162.m3u8
+
 #EXTM3U - COLORS TAMIL
 
 #EXTINF:-1 tvg-id="ts674" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.png",Colors Tamil HD
 http://sansat.net:88/live/02048081503032/02048081503032/100109.m3u8
+
+#EXTM3U - TATA SKY TAMIL CINEMA
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil",TATA SKY TAMIL CINEMA
+http://sansat.net:88/live/02048081503032/02048081503032/100159.m3u8
 
 #EXTM3U - Kalaignar Tv
 
@@ -79,18 +89,37 @@ http://sansat.net:88/live/02048081503032/02048081503032/100124.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/J-MOVIES.jpeg" group-title="Tamil",J MOVIES
 http://sansat.net:88/live/02048081503032/02048081503032/100121.m3u8
 
-#EXTM3U - MADHA TV
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/MADHA-TV.jpeg" group-title="Tamil",MADHA TV
-http://sansat.net:88/live/02048081503032/02048081503032/100127.m3u8
-
 #EXTM3U - Raj TV
 
+#EXTINF:-1 tvg-id="ts439" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",Raj TV
+http://sansat.net:88/live/02048081503032/02048081503032/100147.m3u8
+
+#EXTM3U - Chithiram tv
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="Local Channels (Tamilnadu)",Chithiram tv
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTM3U - D Tamil
 
+#EXTM3U - Polimer Tv
+
+#EXTINF:-1 tvg-id="ts272" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png",Polimer TV
+http://sansat.net:88/live/02048081503032/02048081503032/100140.m3u8
+
+#EXTM3U - VALICHAM PLUS
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil",VALICHAM PLUS
+http://sansat.net:88/live/02048081503032/02048081503032/100163.m3u8
+
+#EXTM3U - Vasanth TV
+
+#EXTINF:-1 tvg-id="499" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png" group-title="",Vasanth TV
+http://sansat.net:88/live/02048081503032/02048081503032/100165.m3u8
 
 #EXTM3U - Raj Digital Plus
+
+#EXTINF:-1 tvg-id="ts426" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",Raj Digital Plus
+http://sansat.net:88/live/02048081503032/02048081503032/100144.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="Tamil",MOON TV
 http://sansat.net:88/live/02048081503032/02048081503032/100133.m3u8
@@ -100,6 +129,11 @@ http://sansat.net:88/live/02048081503032/02048081503032/100133.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/IMAYAM-TV.png" group-title="Tamil",IMAYAM TV
 http://sansat.net:88/live/02048081503032/02048081503032/100120.m3u8
 
+#EXTM3U - Puthuyugam Tv
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="Tamil",Puthuyugam Tv
+http://sansat.net:88/live/02048081503032/02048081503032/100142.m3u8
+
 #EXTM3U - Makkal TV
 
 #EXTINF:-1 tvg-id="" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png",Makkal TV
@@ -107,21 +141,30 @@ http://sansat.net:88/live/02048081503032/02048081503032/100129.m3u8
 
 #EXTM3U - IBC BAKTHI
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="Tamil",IBC BAKTHI
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="DEO",IBC BAKTHI
 http://sansat.net:88/live/02048081503032/02048081503032/100117.m3u8
 
+#EXTM3U - MADHA TV
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/MADHA-TV.jpeg" group-title="DEO",MADHA TV
+http://sansat.net:88/live/02048081503032/02048081503032/100127.m3u8
 
 #EXTM3U -----------------------------News Channels-----------------------------
 
 #EXTM3U - SUN NEWS
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SUN-NEWS-TAMIL.jpg" group-title="NEWS",SUN NEWS TAMIL
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SUN-NEWS-TAMIL.jpg" group-title="NEWS",SUN NEWS
 http://sansat.net:88/live/02048081503032/02048081503032/100156.m3u8
 
 #EXTM3U - Polimer News
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a" group-title="NEWS",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTM3U - Puthiya Thalaimurai
+
+#EXTINF:-1 tvg-id="ts220" group-title="NEWS" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png",Puthiya Thalaimurai
+http://sansat.net:88/live/02048081503032/02048081503032/100141.m3u8
 
 #EXTM3U - News 18 Tamilnadu
 
@@ -138,6 +181,11 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-7-TAMIL.png?alt=media&token=08a165fc-3415-42fe-9092-36e71f3d4a49"group-title="NEWS",News7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
+#EXTM3U - Sathiyam TV
+
+#EXTINF:-1 tvg-id="ts455" group-title="NEWS" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png",Sathiyam TV
+http://sansat.net:88/live/02048081503032/02048081503032/100150.m3u8
+
 #EXTM3U - Thanthi TV
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FTHANTHI-TV.png?alt=media&token=f04a19a8-aaa0-498e-b1b6-88cd63100f2b" group-title="NEWS",Thanthi TV
@@ -148,9 +196,14 @@ https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-PLUS.jpg" group-title="NEWS",JAYA PLUS
 http://sansat.net:88/live/02048081503032/02048081503032/100123.m3u8
 
+#EXTM3U -  Win News
+
+#EXTINF:-1 tvg-id="" tvg-name="Win News" tvg-logo="" group-title="",Win News
+http://sansat.net:88/live/02048081503032/02048081503032/100168.m3u8
+
 #EXTM3U -  Polimer News (BACKUP)
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a" group-title="NEWS",Polimer News
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a" group-title="BACKUP",Polimer News
 http://sansat.net:88/live/02048081503032/02048081503032/100139.m3u8
 
 #EXTM3U -  NEWS 18 TAMIL NADU (BACKUP)
@@ -158,6 +211,10 @@ http://sansat.net:88/live/02048081503032/02048081503032/100139.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-TAMIL-NADU.jpg" group-title="BACKUP",NEWS 18 TAMIL NADU
 http://sansat.net:88/live/02048081503032/02048081503032/100137.m3u8
 
+#EXTM3U - Thanthi TV (BACKUP)
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FTHANTHI-TV.png?alt=media&token=f04a19a8-aaa0-498e-b1b6-88cd63100f2b" group-title="BACKUP",Thanthi TV
+http://sansat.net:88/live/02048081503032/02048081503032/100160.m3u8
 
 -----------------------------Music Channels-----------------------------
 
@@ -178,7 +235,7 @@ http://sansat.net:88/live/02048081503032/02048081503032/100122.m3u8
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="B - K Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="BACKUP",K Tv
 http://31062946988735656.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/735656.ts
 
-#EXTM3U - VIJAY SUPER
+#EXTM3U - Jaya plus
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-PLUS.jpg" group-title="",JAYA PLUS
 http://sansat.net:88/live/02048081503032/02048081503032/100123.m3u8
@@ -428,8 +485,7 @@ http://live.singamcloud.in/maatv/maatv/index.m3u8
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MHI6vgSXrB0JXQK9F2l2T1A_d8euTYBRiott9ucIklNHNHtVoDNx7belH2_rPx_pBqs=w240-h480-rw" group-title="Local Channels (Tamilnadu)", Chennai TV
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="Local Channels (Tamilnadu)",BS HD TV 
-https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd329ca-NF9bruFohLzZjnS05kznLqLkbPdPZT3LiHej51McAnySNIRA9M6bL1BHALZcM&usqp=CAU" group-title="Local Channels (Tamilnadu)", R TV
 https://galaxyott.live/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="Local Channels (Tamilnadu)", Eye Tamil TV
@@ -584,6 +640,9 @@ http://103.131.214.129:9985/stream/channelid/1666515958?ticket=BB2F355F4F6B221F1
 
 #EXTINF:-1 tvg-id="e712c0757bb292be6049246360a6e119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" group-title="Kids",Nick Jr.
 http://103.131.214.129:9985/stream/channelid/1975522023?ticket=4DD590115572E57D0F89D6847FDE9B234F13C49E&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Sony YaY
+http://sansat.net:88/live/02048081503032/02048081503032/100152.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_kids.png" group-title="BACKUP",DISCOVERY KIDS TAMIL
 http://sansat.net:88/live/02048081503032/02048081503032/100112.m3u8
