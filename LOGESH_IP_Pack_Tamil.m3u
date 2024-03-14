@@ -231,9 +231,14 @@ http://sansat.net:88/live/02048081503032/02048081503032/100122.m3u8
 #EXTM3U - 
 
 ----------------------------------------------------------------Backup Channels-------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="BACKUP",Sun Tv
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6692/index.m3u8
 
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="B - K Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="BACKUP",K Tv
 http://31062946988735656.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/735656.ts
+
+#EXTINF:-1 tvg-id="ktv.de" tvg-name="B - K Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K1_TV.png" group-title="BACKUP",K Tv
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6693/index.m3u8
 
 #EXTM3U - Jaya plus
 
