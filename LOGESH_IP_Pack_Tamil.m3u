@@ -662,24 +662,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTM3U - Sports Channels
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Logesh LIVE TV Tamil
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109712/hd_akamai_iosmob_avc_tam_ipl_s1_m1230324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Batting Cam01
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1230324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Stump Cam02
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1230324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Stump Cam03
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1230324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Leader Cam04
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1230324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Sports",Multi Cam05
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1230324/master.m3u8
-
 #EXTINF:-1 tvg-id="78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD Tamil
 http://sansat.net:88/live/02048081503032/02048081503032/93731.m3u8?begin=20240221T060000&amp;end=20240229T060000
 
