@@ -48,7 +48,7 @@ http://sansat.net:88/live/02048081503032/02048081503032/100119.m3u8
 
 #EXTM3U - IBC Comedy
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="Comedy",IBC Comedy
+#EXTINF:-1 tvg-id="" group-title="Comedy" tvg-logo="",IBC Comedy
 http://sansat.net:88/live/02048081503032/02048081503032/100118.m3u8
 
 #EXTM3U - TVI HD
@@ -76,8 +76,10 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DD-PODHIGAI.png" group-title="Tamil",DD PODHIGAI
 http://sansat.net:88/live/02048081503032/02048081503032/100110.m3u8
 
-#EXTM3U - Sun Life
+#EXTM3U - Murasu TV
 
+#EXTINF:-1 tvg-id="411" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="Tamil",Murasu TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 #EXTM3U - Jaya TV HD
 
@@ -220,15 +222,39 @@ http://sansat.net:88/live/02048081503032/02048081503032/100160.m3u8
 
 #EXTM3U - Sun Music
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Music (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Music",Sun Music (Airtel)
-http://sansat.net:88/live/02048081503032/02048081503032/100155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Music (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Music",Sun Music
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd?|drmScheme=clearkey&drmLicense=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
 
 #EXTM3U - JAYA MAX
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MAX.jpeg" group-title="Music",JAYA MAX
-http://sansat.net:88/live/02048081503032/02048081503032/100122.m3u8
+http://xtv.ooo:8080/live/359052742/470428329/244573.m3u8
 
-#EXTM3U - 
+#EXTM3U - Isaiaruvi
+
+#EXTINF:-1 tvg-id="647" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="Music",Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",Tianaa Music Tv
+http://ptuf.ridsys.in/riptv/live/stream91/index.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",G music
+http://udigitalott.ridsys.in/riptv/live/stream7/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",Isai HD Tv
+http://server.sscloud7.in/isaihd/isaihd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",Isai Saaral Tv
+http://srnet.bmlive.net:1935/isaisaral/mystream/index.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",IBC_Isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/7d38a6bf-accf-4f8c-a271-01700e277f8a" group-title="Music",7smusic
+http://103.199.161.254/live/Content/7smusic/Live/Channel(7smusic).m3u8
 
 ----------------------------------------------------------------Backup Channels-------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="BACKUP",Sun Tv
