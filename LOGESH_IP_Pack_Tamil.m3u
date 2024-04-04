@@ -681,13 +681,25 @@ http://sansat.net:25461/live//02024659763157/9012405740/100152.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_kids.png" group-title="BACKUP",DISCOVERY KIDS TAMIL
 http://sansat.net:25461/live//02024659763157/9012405740/100112.m3u8
 
-#EXTM3U - Movies
+#EXTM3U - Star Movies
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://th.bing.com/th/id/OIP.A1nU7d4Ys_Tu1tlO35fMvwAAAA?rs=1&pid=ImgDetMain",Star Movies
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+http://sansat.net:25461/live/02024659763157/9012405740/93668.m3u8
+
+#EXTM3U - Star Movies
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://th.bing.com/th/id/OIP.A1nU7d4Ys_Tu1tlO35fMvwAAAA?rs=1&pid=ImgDetMain",Star Movies
+http://sansat.net:25461/live/02024659763157/9012405740/93669.m3u8
+
+#EXTM3U - SONY PIX HD
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTM3U - AND PRIVE HD
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Music",& PRIVE HD
+http://sansat.net:25461/live/02024659763157/9012405740/93644.m3u8
 
 #EXTM3U - Sports Channels
 
@@ -910,4 +922,7 @@ http://sansat.net:25461/live//02024659763157/9012405740/100116.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="Science",FOX LIFE HD
 http://sansat.net:25461/live//02024659763157/9012405740/100115.m3u8
+
+#EXTINF:-1 tvg-id="460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Science",SONY BBC Earth HD
+http://sansat.net:25461/live/02024659763157/9012405740/100151.m3u8
 
