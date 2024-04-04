@@ -220,6 +220,9 @@ http://sansat.net:25461/live//02024659763157/9012405740/100160.m3u8
 
 -----------------------------Music Channels-----------------------------
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Music",Logesh Music
+http://udigitalott.ridsys.in/riptv/live/stream2/manifest.m3u8
+
 #EXTM3U - Sun Music
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun Music (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png" group-title="Music",Sun Music
@@ -698,7 +701,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTM3U - AND PRIVE HD
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Music",& PRIVE HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Movies",& PRIVE HD
 http://sansat.net:25461/live/02024659763157/9012405740/93644.m3u8
 
 #EXTM3U - Sports Channels
