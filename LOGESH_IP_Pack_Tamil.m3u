@@ -154,6 +154,9 @@ http://sansat.net:25461/live//02024659763157/9012405740/100127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Christian",IBC Siluvai
 https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Christian",Iife Tv
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+
 #EXTM3U - Jothi TV
 
 #EXTINF:-1 tvg-id="ts434" group-title="DEO" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png",Jothi TV
@@ -389,7 +392,7 @@ http://ipcloud.live:8080/balu/subamtv.m3u8
 https://1cloud.digital/bass/velurtv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TV.png?alt=media&token=5033fdb8-69d0-4682-9a52-1657a4e27736" group-title="Local Channels (Tamilnadu)",CTN TV
 https://ipcloud.live/ctn/ctn.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TAMIL.png?alt=media&token=e8639c32-2db2-4500-8e9c-a6e575595205" group-title="Local Channels (Tamilnadu)",CTN Tamil TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TAMIL.png?alt=media&token=e8639c32-2db2-4500-8e9c-a6e575595205" group-title="Local Channels (Tamilnadu)",CTN Tami
 https://ipcloud.live/ctn/tamil.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" group-title="Comedy",CTN Sirippu
 https://ipcloud.live/ctn/sirippu.m3u8
@@ -431,7 +434,7 @@ https://1cloud.digital/thendral/live.m3u8
 https://cloudstreamer.site/karnan/bharathitv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/GTV.png?alt=media&token=ae4a1483-0354-4c3d-8a69-1cfa4f56d491" group-title="Local Channels (Tamilnadu)",G TV
 https://cloudstreamer.site/karnan/gtv.m3u8
-#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/VAANAVIL-TV.png?alt=media&token=7766c7cd-85e2-4f82-9a8e-2289cce486e5" group-title="Local Channels (Tamilnadu)",Vaanavil TV
+#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/VAANAVIL-TV.png?alt=media&token=7766c7cd-85e2-4f82-9a8e-2289cce486e5" group-title="Local Channels (Tamilnadu)",Vaanavi
 https://cloudstreamer.site/karnan/vanaviltv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G2nh5y27BxL7cAbC7aIwUWl4ot-miOz_Rao4Xr1cxDAK7_ZBRg10J9ZRnhANMkODMA=w240-h480-rw" group-title="Local Channels (Tamilnadu)",7star new TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
@@ -497,7 +500,7 @@ http://indiamatrix.in:80/atn/atn.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="http://images.indialisted.com/nlarge/sls_channel_local_tv_1927817.jpg" group-title="Local Channels (Tamilnadu)",SLS TV  
 http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="Local Channels (Tamilnadu)",Southern Tamil TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="Local Channels (Tamilnadu)",Southern Tami
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" group-title="Local Channels (Tamilnadu)",SURIYA
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
@@ -531,7 +534,7 @@ https://1cloud.digital/sriarjuntv/sribhagavan.m3u8
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUHclE1WTUDOJz9sfDQHZ0cHI8F4elh6ZvF50t2rrEe9azcIWL61CXwjA5_FPW4Sbw=w240-h480-rw" group-title="Local Channels (Tamilnadu)",RR TV
 http://notvstream.in/rrtv/rrtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="Local Channels (Tamilnadu)",Vidiyal Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="Local Channels (Tamilnadu)",Vidiya
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1 tvg-logo = "https://singamcloud.com/tv/upload/1679840897_IMG-20230325-WA0093.jpg" group-title="Local Channels (Tamilnadu)",KARTHI TV 
 http://live.singamcloud.in/karthitv/karthitv/index.m3u8
