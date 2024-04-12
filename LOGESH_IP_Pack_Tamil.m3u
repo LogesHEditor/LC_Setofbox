@@ -221,8 +221,11 @@ http://sansat.net:25461/live/02024659763157/9012405740/100123.m3u8
 
 #EXTM3U -  Win News
 
-#EXTINF:-1 tvg-id="" tvg-name="Win News" tvg-logo="" group-title="",Win News
+#EXTINF:-1 tvg-id="" tvg-name="Win News" tvg-logo="" group-title="NEWS",Win News
 http://sansat.net:25461/live//02024659763157/9012405740/100168.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",Janam Tamil
+https://janamtv.live/janamtamil/live.m3u8
 
 #EXTM3U -  Polimer News (BACKUP)
 
