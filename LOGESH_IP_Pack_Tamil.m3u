@@ -352,7 +352,7 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/100100.m3u8
 #EXTM3U Local Channels
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Local Channels (Tamilnadu)",RV TV
-rtmp://skystream.in/live/rv8885
+rtmp://ipcloud.live/rvtv/rvtvhd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocKqWtqhvGyPIynoN26bVO-QD-bdAgmdfuz1ORtAqyteZvuf=s288-c-no" group-title="Local Channels (Tamilnadu)",OM TV
 http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
