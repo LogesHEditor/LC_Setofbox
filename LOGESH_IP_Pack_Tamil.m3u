@@ -2,11 +2,14 @@ ________________________________________________________________________________
 
 #EXTM3U - SUN TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv DishTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv DishTv
 http://217.20.112.199/suntv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Tata)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv TaTa
 http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
+http://z88.ubtvfans.com/live/rx4/1458/f056c06fc30ee8927f9ad3ad1f2851ca/index.m3u8
 
 #EXTM3U - K TV
 
@@ -34,11 +37,14 @@ https://stream.vstartv.org:3511/hybrid/play.m3u8
 
 #EXTM3U - ADITHYA TV
 
-#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Comedy",Adithya Tv
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Adithyatv/free/index.mpd
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Comedy",AdithyaTv
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 
 #EXTM3U - Sirippoli
 
+
+#EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Comedy",Siripoli Tv
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTM3U - ZEE TAMIL
 
