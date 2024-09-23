@@ -2,11 +2,11 @@ ________________________________________________________________________________
 
 #EXTM3U - SUN TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv (LAOTv)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv (LAOTv)
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
 http://217.20.112.199/suntv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv (Airtel)
-http://z88.ubtvfans.com/live/rx4/1458/f056c06fc30ee8927f9ad3ad1f2851ca/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Airtel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
+http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 
 #EXTM3U - K TV
 
@@ -26,10 +26,16 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=6469&deviceMac=00:1A:79:B7:2F:
 #EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="Tamil",Vijay Super
 http://116.202.46.40:789/VIJAY_SUPER_TAMIL/index.m3u8
 
+#EXTM3U - VIJAY Takkar
+
+#EXTINF:-1 tvg-id="" tvg-name="Vijay Takkar" tvg-logo="" group-title="Tamil",Vijay Takkar
+https://stream.vstartv.org:3511/hybrid/play.m3u8
+
+
 #EXTM3U - ADITHYA TV
 
 #EXTINF:-1 tvg-id="AdithyaTv" tvg-name="Adithya Tv" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="Comedy",Adithya Tv
-http://195.26.87.217/live.ts?channelId=43404&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Adithyatv/free/index.mpd
 
 #EXTM3U - Sirippoli
 
@@ -37,7 +43,7 @@ http://195.26.87.217/live.ts?channelId=43404&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTM3U - ZEE TAMIL
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",Zee Tamil
-http://sansat.net:88/02029761595924/9d089925dc60a821/100169.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/Zeetamil1.m3u8
 
 #EXTM3U - Zee Thirai
 
