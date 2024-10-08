@@ -8,16 +8,19 @@ http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Tata)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv TaTa
 http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv
-http://z88.ubtvfans.com/live/rx4/1458/f056c06fc30ee8927f9ad3ad1f2851ca/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Tv Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv Canada
+http://m1-max.dns-speedy.com:80/35F56F/50945D/656929
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv NXT
 http://ktv.im:8080/1234512345/1234512345/82906
 
 #EXTM3U - K TV
 
-#EXTINF:-1 tvg-id="380" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV HD (Airtel)
-http://sansat.net:88/02029761595924/9d089925dc60a821/100125.m3u8
+#EXTINF:-1 tvg-id="380" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV Tata
+https://starshare.live:443/live/qwer/qwer/5900.ts
+
+#EXTINF:-1 tvg-id="380" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV Airtel
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63497
 
 #EXTM3U - STAR VIJAY
 
