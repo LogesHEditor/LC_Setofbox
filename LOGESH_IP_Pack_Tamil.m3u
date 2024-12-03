@@ -3,7 +3,7 @@ ________________________________________________________________________________
 #EXTM3U - SUN TV
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv DishTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv DishTv
-http://217.20.112.199/suntv/index.m3u8
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Tata)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv TaTa
 http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA
