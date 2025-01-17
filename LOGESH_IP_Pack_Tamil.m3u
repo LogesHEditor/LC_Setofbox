@@ -2,17 +2,10 @@ ________________________________________________________________________________
 
 #EXTM3U - SUN TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv DishTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv DishTv
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun Tv (Tata)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv TaTa
 http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv Canada
-http://m1-max.dns-speedy.com:80/35F56F/50945D/656929
-
-#EXTINF:-1 tvg-id="" tvg-name="Sun Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="Tamil",Sun Tv NXT
-http://ktv.im:8080/1234512345/1234512345/82906
 
 #EXTM3U - K TV
 
@@ -33,10 +26,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|dr
 vijay 
 
 #EXTINF:-1 tvg-id="ts496" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=4983&deviceMac=00:1A:79:A7:35:75
 
 #EXTINF:-1 tvg-id="ts496" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
-http://tv.cloudcdn.me/live.ts?channelId=43419&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4983&deviceMac=00:1A:79:A7:35:75
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",Star Vijay Tv
 http://195.26.87.217/live.ts?channelId=43419&uid=7435&deviceMac=00:1A:79:B7:2F:EA
